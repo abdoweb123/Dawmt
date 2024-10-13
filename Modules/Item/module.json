@@ -1,0 +1,11 @@
+{
+    "name": "Item",
+    "alias": "package",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Item\\Providers\\ItemServiceProvider"
+    ],
+    "files": []
+}
